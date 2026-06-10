@@ -1,0 +1,31 @@
+text,label
+"Congratulations! You won ₹10000. Click now.",spam
+"Claim your free iPhone today.",spam
+"Limited time offer. Buy now and save 50%.",spam
+"Exclusive discount just for you.",spam
+"You have been selected as a lucky winner.",spam
+"Meeting scheduled for tomorrow at 10 AM.",ham
+"Please review the attached project report.",ham
+"Happy birthday! Have a wonderful day.",ham
+"Your interview is scheduled for Monday.",ham
+"Lunch meeting moved to 1 PM.",ham
+"Your bank account is suspended. Verify immediately.",phishing
+"Click here to update your password.",phishing
+"Unusual login detected. Confirm your identity.",phishing
+"Verify your account to avoid suspension.",phishing
+"Your payment failed. Update card details now.",phishing
+"Team meeting agenda attached.",ham
+"Please find the invoice attached.",ham
+"Project deadline extended by two days.",ham
+"Can we reschedule our call?",ham
+"Monthly performance report is ready.",ham
+"Earn money from home with no investment.",spam
+"Get rich quickly with this secret method.",spam
+"Lowest loan rates available today.",spam
+"Special promotion expires tonight.",spam
+"Win a luxury vacation package now.",spam
+"Your email account will be deleted unless verified.",phishing
+"Security alert: reset your password immediately.",phishing
+"Update banking information to continue service.",phishing
+"Your account has been compromised. Login now.",phishing
+"Confirm your credentials to unlock your account.",phishing
